@@ -54,7 +54,7 @@ const Converter = () => {
           />
           <button
             onClick={convertToRupees}
-            className="bg-blue-500 text-white py-2 px-4 rounded w-full"
+            className="bg-blue-900 text-white py-2 px-4 rounded w-full"
           >
             Convert to Rupees
           </button>
